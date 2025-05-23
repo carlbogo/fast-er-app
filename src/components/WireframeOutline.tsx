@@ -201,7 +201,7 @@ export const WireframeOutline = () => {
                           <div>
                             <h4 className="font-medium mb-2">Kestus</h4>
                             <div className="grid grid-cols-3 gap-2">
-                              <Button size="sm" variant="outline">< 1h</Button>
+                              <Button size="sm" variant="outline">&lt; 1h</Button>
                               <Button size="sm" variant="outline">1-24h</Button>
                               <Button size="sm" className="bg-blue-500">1-7 päeva</Button>
                             </div>
